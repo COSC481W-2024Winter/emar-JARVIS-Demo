@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "534427283717",
+    "firebase_url": "https://jarvis-tech-stack-default-rtdb.firebaseio.com",
+    "project_id": "jarvis-tech-stack",
+    "storage_bucket": "jarvis-tech-stack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534427283717:android:f11d502ae7969ca9d1c76c",
+        "android_client_info": {
+          "package_name": "com.example.jarvis_tech_stack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcc52wuDZ6geIXWuAFN5Xk2uDnvnJPCDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
